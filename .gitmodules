@@ -1,0 +1,3 @@
+[submodule "1st-lab"]
+	path = 1st-lab
+	url = https://github.com/EvgeniyGultsev/1st-lab.git
